@@ -19,7 +19,8 @@
 
 Все данные записываются в файл формата ```csv```
 
-![2024-03-21_20-33-19](https://github.com/yakhovets-o/job-search-parser/assets/112704107/581e42f8-4400-48e5-8461-20026d06bc1a)
+![2024-03-21_20-33-19](https://github.com/yakhovets-o/job-search-parser/assets/112704107/0f6f8b73-1d9f-4df0-afb0-d5e98e8c0d3c)
+
 
 ---
 Модуль ```diagram``` использует библиотеки:
@@ -27,7 +28,7 @@
 * [***Matplotlib***](https://matplotlib.org/stable/index.html) - для визуализации
 
 
-![2024-03-21_20-48-43](https://github.com/yakhovets-o/job-search-parser/assets/112704107/66ce53ae-209e-4cf4-9e32-ab7ef5709afc)
+![2024-03-21_20-48-43](https://github.com/yakhovets-o/job-search-parser/assets/112704107/0677573b-6676-4530-8d76-e83bcb9b5fd0)
 
 
 ---
