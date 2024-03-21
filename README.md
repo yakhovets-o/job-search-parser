@@ -27,7 +27,7 @@
 * [***Pandas***](https://pandas.pydata.org/pandas-docs/stable/index.html) - для анализа ```csv``` файла
 * [***Matplotlib***](https://matplotlib.org/stable/index.html) - для визуализации
 
-график сохраняется в файл ```skills_diagram.png```
+График сохраняется в файл ```skills_diagram.png```
 
 
 ![2024-03-21_20-48-43](https://github.com/yakhovets-o/job-search-parser/assets/112704107/0677573b-6676-4530-8d76-e83bcb9b5fd0)
