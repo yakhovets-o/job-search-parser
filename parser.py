@@ -92,7 +92,7 @@ def get_vacancy(link: str, headers: dict) -> Vacancy | None:
                    )
 
 
-def add_csv():
+def add_csv() -> None:
     create_csv()
 
     for link in get_link(url=URL, headers=HEADERS):
