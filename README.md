@@ -32,7 +32,7 @@
 
 ---
 ## :desktop_computer: Установка
-#### :computer_disk: Для Windows
+#### Для Windows
 * Скопируйте репозиторий к себе на компьютер [***job-search-parser***](https://github.com/yakhovets-o/job-search-parser.git)
 * Установите виртуальное окружение  ```python -m venv venv```
 * Активируйте виртуальное окружение ```source venv/Scripts/activate```
