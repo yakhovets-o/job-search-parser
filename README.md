@@ -37,6 +37,7 @@
 * Установите виртуальное окружение  ```python -m venv venv```
 * Активируйте виртуальное окружение ```source venv/Scripts/activate```
 * Установите внешние библиотеки, выполнив: ```pip install -r requirements.txt```
+* Запустите файл ```main.py```
 
 ---
 ## :sunflower: Лицензия 
