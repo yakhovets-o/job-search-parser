@@ -1,4 +1,4 @@
-# :rosette: Анализатор поиска работы
+# :flower_playing_cards: Анализатор поиска работы
 ![Static Badge](https://img.shields.io/badge/Python-3.11-blue?style=flat)
 ![Static Badge](https://img.shields.io/badge/Beautiful%20Soup-4.12-black?style=flat)
 ![Static Badge](https://img.shields.io/badge/Requests-2.31-red?style=flat)
