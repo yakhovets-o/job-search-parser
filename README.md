@@ -11,7 +11,7 @@
 Анализатор  разработан для получения актуальной информации по вакансиям,  сохранением данных в файл и построением   диаграмм.
 
 ---
-:evergreen_tree: Модуль ```parser``` использует библиотеки:
+:evergreen_tree: Модуль ```scraper``` использует библиотеки:
 * [***Requests***](https://requests.readthedocs.io/en/latest/index.html) - для HTTP запросов
 * [***Beautiful Soup***](https://beautiful-soup-4.readthedocs.io/en/latest/) - для извлечения данных из HTML
 * [***Fake-useragent***](https://fake-useragent.readthedocs.io/en/latest/) - для генерации случайного ```UserAgent```
