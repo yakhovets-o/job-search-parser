@@ -6,7 +6,7 @@
 ![Static Badge](https://img.shields.io/badge/Matplotlib-3.8-purple?style=flat)
 
 ---
-## Описание
+## :wilted_flower: Описание
 
 Анализатор  разработан для получения актуальной информации по вакансиям,  сохранением данных в файл и составлением  диаграммы.
 
@@ -32,12 +32,12 @@
 
 
 ---
-## Лицензия 
+## :sunflower: Лицензия 
 Данный проект использует лицензию [***MIT***](https://github.com/yakhovets-o/job-search-parser/blob/main/LICENSE)
 
 
 ---
-## Контакты 
+## :white_flower: Контакты 
 
 Для связи в автором проекта писать на почту: yakhovetso@gmail.com
 
