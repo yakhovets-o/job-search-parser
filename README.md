@@ -17,9 +17,7 @@
 * [***Fake-useragent***](https://fake-useragent.readthedocs.io/en/latest/) - для генерации случайного ```UserAgent```
 
 
-Все данные записываются в файл формата ```csv```
-
-![2024-03-21_20-33-19](https://github.com/yakhovets-o/job-search-parser/assets/112704107/0f6f8b73-1d9f-4df0-afb0-d5e98e8c0d3c)
+Все данные записываются в файл формата ```csv```  [***Пример***](https://github.com/yakhovets-o/job-search-parser/blob/main/vacancy.png)
 
 
 ---
