@@ -10,6 +10,14 @@ from typing import Generator
 from model import Vacancy
 
 
+def get_url(search_word: str) -> str:
+    url = f'https://rabota.by/search/vacancy?L_save_area=true&search_field=name&search_field=company_name&' \
+          f'search_field=description&items_on_page=20&hhtmFrom=vacancy_search_filter&area=16&text={search_word}' \
+          f'&enable_snippets=false'
+    return url
+
+
+URL = get_url(search_word=input('Введите Название профессии: ').capitalize())
 ua = UserAgent().random
 HEADERS = {'User-Agent': ua}
 
@@ -130,17 +138,3 @@ def write_csv(vacancy: Vacancy) -> None:
             vacancy.address
 
         ])
-
-
-if __name__ == '__main__':
-    start = time.time()
-
-    search_word = input('Введите Название профессии: ').capitalize()
-
-    URL = f'https://rabota.by/search/vacancy?L_save_area=true&search_field=name&search_field=company_name&' \
-          f'search_field=description&items_on_page=20&hhtmFrom=vacancy_search_filter&area=16&text={search_word}' \
-          f'&enable_snippets=false'
-
-    add_csv()
-    finish = time.time()
-    print(f'Время работы: {finish - start} sec')
