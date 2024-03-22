@@ -32,8 +32,8 @@
 
 ---
 ## :desktop_computer: Установка
-#### :computer_disk: для Windows
-* Скопируйте репозиторий к себе на компьютер по SSH-ключу [***job-search-parser***](git@github.com:yakhovets-o/job-search-parser.git)
+#### :computer_disk: Для Windows
+* Скопируйте репозиторий к себе на компьютер [***job-search-parser***](https://github.com/yakhovets-o/job-search-parser.git)
 * Установите виртуальное окружение  ```python -m venv venv```
 * Активируйте виртуальное окружение ```source venv/Scripts/activate```
 * Установите внешние библиотеки, выполнив: ```pip install -r requirements.txt```
