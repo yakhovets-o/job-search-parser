@@ -11,7 +11,7 @@
 Анализатор  разработан для получения актуальной информации по вакансиям,  сохранением данных в файл и составлением  диаграммы.
 
 ---
-Модуль ```parser``` использует библиотеки:
+:evergreen_tree: Модуль ```parser``` использует библиотеки:
 * [***Requests***](https://requests.readthedocs.io/en/latest/index.html) - для HTTP запросов
 * [***Beautiful Soup***](https://beautiful-soup-4.readthedocs.io/en/latest/) - для извлечения данных из HTML
 * [***Fake-useragent***](https://fake-useragent.readthedocs.io/en/latest/) - для генерации случайного ```UserAgent```
@@ -21,14 +21,14 @@
 
 
 ---
-Модуль ```diagram``` использует библиотеки:
+:deciduous_tree: Модуль ```diagram``` использует библиотеки:
 * [***Pandas***](https://pandas.pydata.org/pandas-docs/stable/index.html) - для анализа ```csv``` файла
 * [***Matplotlib***](https://matplotlib.org/stable/index.html) - для визуализации
 
 График сохраняется в файл [```skills_diagram.png```](https://github.com/yakhovets-o/job-search-parser/blob/main/skills_diagram.png)
 
 ---
-Модуль ```model``` содержит в себе ```dataclass```
+:palm_tree: Модуль ```model``` содержит в себе ```dataclass```
 
 ---
 ## :desktop_computer: Установка
