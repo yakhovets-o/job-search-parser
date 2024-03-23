@@ -35,7 +35,7 @@
 #### Для Windows
 * Скопируйте репозиторий к себе на компьютер [***job-search-parser***](https://github.com/yakhovets-o/job-search-parser.git)
 * Установите виртуальное окружение  ```python -m venv venv```
-* Активируйте виртуальное окружение ```source venv/Scripts/activate```
+* Активируйте виртуальное окружение ```venv/Scripts/activate```
 * Установите внешние библиотеки, выполнив: ```pip install -r requirements.txt```
 * Запустите файл ```main.py```
 
